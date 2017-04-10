@@ -1,0 +1,5 @@
+MC33926MotorShield	KEYWORD1
+init	KEYWORD2
+setMotor	KEYWORD2
+getCurrentMilliamps	KEYWORD2
+Fault	KEYWORD2
